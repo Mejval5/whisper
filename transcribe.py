@@ -119,6 +119,10 @@ def transcribe_track(model, track: Path, out_json: Path, hotwords):
 
 
 def merge(session: Path, speakers: dict):
+    # sessions/<s>/speakers.json overrides the campaign map (e.g. when mic sharing changes).
+    override = session / "speakers.json"
+    if override.exists():
+        speakers = {**speakers, **json.loads(override.read_text(encoding="utf-8"))}
     lines = []
     for f in sorted((session / "transcripts").glob("*.json")):
         name = speakers.get(f.stem, f.stem)

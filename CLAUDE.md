@@ -8,6 +8,7 @@ Czech-language Pathfinder sessions recorded with Craig (Discord bot), transcribe
   - `transcript.md` / `transcript.json` - merged, time-ordered transcript
   - `summary.md` - AI summary (written by Claude)
 - `campaign/speakers.json` - Discord username -> display name ("Player (Character)")
+  - `sessions/<session>/speakers.json` (optional) overrides it for one session, e.g. when players shared a mic
 - `campaign/glossary.txt` - names/terms passed to Whisper as spelling hints
 - `campaign/notes.md` - running campaign memory across sessions
 - `prompts/summary.md` - summary structure
