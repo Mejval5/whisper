@@ -1,0 +1,26 @@
+# Names and terms Whisper should spell correctly: character names, NPCs, places, spells.
+# One per line. Keep it short (a few dozen terms max) - it is fed to the model as a hint.
+Pathfinder
+# Party
+Ezekiel Monstrans
+Trigwynn
+Arnold
+Rikkit Klaw
+Verrick
+# NPCs
+Tamily
+Keeleno
+Jaul Mezmin
+Wrin Sivinxi
+Oseph Menhemes
+Carman Rajani
+Belcorra
+# Places
+Otari
+Gauntlight
+Abomination Vaults
+Osprey Club
+# Gods and game terms
+Pharasma
+Nhimbaloth
+Treat Wounds
