@@ -6,8 +6,21 @@ Where one Discord track carries two players (see notes.md), work out who spoke f
 
 ## What to keep and what to drop
 
-The summary is the campaign's memory. Anything that could matter in a later session goes in,
-however small. Read the whole in-game part of the transcript, not just the big scenes.
+The summary is the campaign's memory: later sessions (and the GM's bot) read it **instead of
+the transcript**, so anything missing from it is effectively lost. It must hold every decision
+and every detail that could matter later, however small: backstory hints, a character's
+throwaway line about their past, a promise, an NPC's tone, a clue nobody followed up.
+**Completeness beats length.** A long summary is fine; a short one that dropped a backstory
+beat or a small decision is a failure. Read the whole in-game part of the transcript, not just
+the big scenes.
+
+What keeps it readable is cutting noise, not content: no play-by-play of mechanics, no
+repetition. One bullet per beat, written so it still makes sense months later without the
+transcript. Say each fact once, in the section where it belongs, and refer to it elsewhere
+instead of repeating it.
+
+**Information from outside the recording** (GM messages, handouts, whispers, corrections the
+GM gives in chat): put it in, and mark where it came from (e.g. "(zpráva od GM)").
 
 **Keep, every time:**
 
@@ -20,6 +33,10 @@ however small. Read the whole in-game part of the transcript, not just the big s
   and answered or refused), and promises made between characters.
 - Item movements: found, taken, traded, used up, given away. Who holds what at the end.
 - Mechanical state that carries over: conditions, blessings, damage taken, resources spent.
+- **Fights, as outcomes:** who and what they fought, where, how it started, the moments that
+  decided it (a crit, a downed character, a clever tactic, a retreat), what the enemy said or
+  revealed, how it ended, who is still alive or fled, and what it cost the party. A few
+  bullets per fight, not one per round.
 - GM rulings and house rules that will apply again.
 - Table decisions that shape the campaign: next session date and format, backstory
   agreements, anything the GM or players say about characters' future.
@@ -28,6 +45,9 @@ however small. Read the whole in-game part of the transcript, not just the big s
 
 - Foundry / VTT troubleshooting, finding buttons, dragging tokens, trade windows, audio problems.
 - Rules explanations that didn't change what happened.
+- Round-by-round combat: individual attacks, misses, damage numbers, action economy, who moved
+  where. Keep only what changed the outcome or carries over.
+- Long back-and-forth that ended nowhere: give the gist and the result in one bullet.
 - Real-life chatter unrelated to the game.
 
 If something is unclear in the audio, write it with `[?]` instead of guessing.
@@ -43,7 +63,7 @@ If something said at the table contradicts campaign/notes.md or the GM's lore, s
 
 Chronological, grouped by scene or room. Each bullet starts with an approximate [HH:MM:SS]
 timestamp. Keep the small beats inside their scene (a clue, a line of dialogue, a failed roll
-that mattered).
+that mattered). A fight is one short block of outcome bullets (see above), not a log of rounds.
 
 ### Stopy a informace
 
