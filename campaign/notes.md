@@ -7,6 +7,7 @@ GM: Dan. Full GM material (character lore, NPCs, canon, session log) lives in th
 skill: `D:\Projects\ai-plugins\plugins\second-brain\skills\pathfinder\references\`
 (`postavy.md`, `sezeni.md`, `druzina.md`, `kanon_menace_under_otari.md`, one file per character).
 That is the source of truth and contains spoilers; this file is only what the transcripts need.
+Player profiles (how each player talks and behaves at the table) are in `campaign/players/`.
 
 ## Party
 

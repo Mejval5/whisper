@@ -11,6 +11,7 @@ Czech-language Pathfinder sessions recorded with Craig (Discord bot), transcribe
   - `sessions/<session>/speakers.json` (optional) overrides it for one session, e.g. when players shared a mic
 - `campaign/glossary.txt` - names/terms passed to Whisper as spelling hints
 - `campaign/notes.md` - running campaign memory across sessions
+- `campaign/players/<name>.md` - one profile per player (who they are, how they talk and behave); update when a session changes the picture
 - `prompts/summary.md` - summary structure
 
 ## Commands
@@ -26,4 +27,10 @@ Czech-language Pathfinder sessions recorded with Craig (Discord bot), transcribe
 5. Copy the session into the GM bot, repo `D:\Projects\ai-plugins` (follow its CLAUDE.md: fresh worktree from `origin/main`, version bump, PR):
    `plugins/second-brain/skills/pathfinder/sezeni/sezeni_NN/zapis.md` <- `summary.md` (only for a new session; an existing `zapis.md` was edited by the GM bot, never overwrite it),
    `.../sezeni_NN/prepis.md` <- `transcript.md` with a header saying it is a raw transcript for grep only.
-   The bot reads `zapis.md` and only greps `prepis.md`. NN follows the GM's numbering: 2026-09-29 = 03, 2026-10-11 = 04, 2026-10-13 = 05, 2026-10-21 = 06.
+   The bot reads `zapis.md` and only greps `prepis.md`. NN follows the GM's numbering: 2026-09-29 = 03, 2026-10-11 = 04, 2026-10-13 = 05, 2026-10-21 = 06; a new session takes the next number after the highest `sezeni_NN` on `origin/main`.
+   Before starting, check for an unmerged `sync/*` branch or leftover `D:\Projects\ai-plugins-*` worktree from an earlier session and finish it first (rebase on `origin/main`, push, PR, merge), so nothing is duplicated or lost.
+
+## Gotchas
+- Transcription needs the GPU to itself. A game running in the background (e.g. Arma) made it ~5x slower; ask the user to close it.
+- The GM often adds context from outside the recording (flashbacks sent on Messenger, rulings in chat, screenshots). Put it in the summary marked "(zpráva od GM)".
+- A Craig zip can be missing a player's track: that player was absent. Say so in the summary.
