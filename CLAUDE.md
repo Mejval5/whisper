@@ -13,6 +13,7 @@ Czech-language Pathfinder sessions recorded with Craig (Discord bot), transcribe
 - `campaign/notes.md` - running campaign memory across sessions
 - `campaign/players/<name>.md` - one profile per player (who they are, how they talk and behave); update when a session changes the picture
 - `prompts/summary.md` - summary structure
+- `ai-plugins/` - a git worktree of the GM bot repo `D:\Projects\ai-plugins` (`Mejval5/ai-plugins`), detached at `origin/main`, gitignored here. It shows what the bot already has. Refresh with `git -C ai-plugins fetch && git -C ai-plugins checkout --detach origin/main`. Changes go through a separate worktree and a PR (step 5), never through this one.
 
 ## Commands
 - Transcribe all new sessions: `.venv\Scripts\python.exe transcribe.py`
@@ -29,6 +30,7 @@ Czech-language Pathfinder sessions recorded with Craig (Discord bot), transcribe
    `.../sezeni_NN/prepis.md` <- `transcript.md` with a header saying it is a raw transcript for grep only.
    The bot reads `zapis.md` and only greps `prepis.md`. NN follows the GM's numbering: 2026-09-29 = 03, 2026-10-11 = 04, 2026-10-13 = 05, 2026-10-21 = 06; a new session takes the next number after the highest `sezeni_NN` on `origin/main`.
    Before starting, check for an unmerged `sync/*` branch or leftover `D:\Projects\ai-plugins-*` worktree from an earlier session and finish it first (rebase on `origin/main`, push, PR, merge), so nothing is duplicated or lost.
+   A private 1:1 call with a player is not a session: it goes to `.../sezeni/soukroma/<date>_<player>.md` (digest on top, raw transcript below), and what it changed goes into that player's row in `references/hraci.md`, their `references/hrac_<name>.md`, and the character file.
 
 ## Gotchas
 - Transcription needs the GPU to itself. A game running in the background (e.g. Arma) made it ~5x slower; ask the user to close it.

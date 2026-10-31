@@ -13,8 +13,10 @@ recordings only. One file per player.
 
 ## Sources
 
-Five recordings between 2026-09-29 and 2026-10-26: four group sessions and two private calls
-(Dan with Veru, Dan with Makak, both 26/10). About 11 hours of audio.
+Seven recordings between 2026-09-29 and 2026-10-31: four group sessions and three private calls
+(Dan with Veru and Dan with Makak on 26/10, Dan with Vojta on 31/10). About 12 hours of audio.
+The same profiles live in the GM bot as `ai-plugins/.../pathfinder/references/hrac_<name>.md`,
+translated to Czech; keep the two in step.
 
 ## Caveats
 

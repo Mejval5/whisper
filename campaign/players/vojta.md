@@ -111,7 +111,42 @@ competently and without relish. Loot rarely interests him.
 29/09 investigator and spokesman, solves the riddle he already knew. 11/10 commander in the
 fight, wins every party decision (Tamily deception, retreat), wants to skip town. 13/10 the
 alley pact with Trigwynn, lies for her. 21/10 downed, rescued, the oil ritual, hosts the
-question game.
+question game. 31/10 private call: owns the "rule of cool" build, states the god goal, takes
+the manipulator reading of his reason for Otari and asks for a scene of his own.
+
+## Private call (31/10)
+
+An hour on Discord while the two of them played a co-op fishing game. The character talk fills
+the first 38 minutes and thins out as the fish get bigger; Dan left for badminton with "pak ještě
+můžeme pokračovat". Transcript: `sessions/2026-10-31_private_vojta/transcript.md`.
+
+- **Honest about mechanics, unbothered by them.** Opens by saying his action economy and use of
+  skills and items are not optimised, and that the shield felt random: "Vždycky, když jsem držel
+  štít, tak mě trefili, tak jsem ho dropnul a přestali se trefovat." (00:00). Level 2 plan stated
+  himself: Exemplar dedication, the sickle as weapon ikon, Barrow's Edge ("vampirismus"), chosen
+  because "moje postava jede hlavně na rule of cool. Nebo na takový vibe, prostě." (00:03).
+- **Wants more backstory, not less.** Plans to write the full backstory "na pár stran" (00:07).
+  Offered memory loss by Dan, he picks a mild one for Ezekiel, consistent with his own canon of
+  losing part of himself in the transfer.
+- **Listens to lore like a detective.** Takes Dan's two memories (ribs: kobolds barricading the
+  mausoleum from inside; skull: a night on a dune, the morning in the mausoleum, the gold left
+  untouched) and the kobold song, and asks precise clarifying questions: was the ribcage his
+  original, did living Ezekiel see it from inside the sarcophagus, was the sarcophagus broken.
+- **States the long-term goal in one breath:** "stvořit dokonalou bytost, abych já byl ta dokonalá
+  bytost… de facto asi prostě se stát bohem" (00:23), with an "esoterický klíč" to how the parts
+  combine and muscles to be added later. Sickle folds like a razor, its handle a bone that clicks
+  into his forearm and flicks out of the sleeve. Skeleton a mix of dwarf, human and orc bones for
+  strength plus a few artifacts, parts to be replaced over time.
+- **Embraces the manipulator angle instantly.** Given Dan's secret reason for Otari (Belcorra as a
+  predecessor, Tamily's job as a way underground, let the others walk ahead), he answers "Já to
+  někde udělám nějaký reveal, že jsem vlastně čůrák" (00:37). Of hunting buried beings for bones:
+  "Asi Ezekielovi nedělalo problém nějakýho zabít a pak z něho vypáčet kosti" (00:31).
+- **Reveal instinct is slow-burn.** Wants backstory to come out through interactions, not a dump
+  at the start. Noted he nearly leaked lore when downed: he asked whether anyone undressed him,
+  only the mask came off, so the reliquary armour underneath stayed hidden (00:46). Asks for
+  "něco, kde se Ezekiel může vyhrát" (00:48), maybe the werewolf thread.
+- **Out of game:** an easy co-op partner. Dan drives the game and the swearing, Vojta reacts,
+  no friction, both narrate deaths and sharks in English gamer register.
 
 ## Signature quotes
 
@@ -125,6 +160,9 @@ question game.
 - 13/10 00:53 "Nemohu přece chodit po ulici s viditelnou dírou ve své masce."
 - 21/10 01:58 "Damn, that was cold… that's metal as fuck"
 - 21/10 02:48 "Děkuji ti za svůj život. Je to dluh, který nezapomenu. Třetí priorita? Arnolde, ty imbecile!"
+- 31/10 00:03 "moje postava jede hlavně na rule of cool. Nebo na takový vibe, prostě."
+- 31/10 00:23 "ten long term cíl Ezekiela je asi jako prostě stvořit dokonalou bytost, abych já byl ta dokonalá bytost"
+- 31/10 00:37 "Já to někde udělám nějaký reveal, že jsem vlastně čůrák"
 
 ## What works with him
 
