@@ -12,7 +12,9 @@ every session.
 - A parent with limited evenings. Leaves for "tatínkovské povinnosti" (29/09 01:53), runs down
   for a courier mid-combat (29/09 01:19), "Už fakt běžíme, mějte se" (11/10 02:12), "musím běžet
   lidi" (13/10 01:00). Absent on 21/10. Dropped into the Makak private call for six minutes on
-  26/10 and left with "já musím mizet teďka".
+  26/10 and left with "já musím mizet teďka". Back on 27/10 (unrecorded) and 01/11, where he
+  played about two hours and then vanished without a word around 02:00 [?]; the GM moved
+  Rikkit's token for the rest.
 - Runs his own soundboard that fights the GM's. Discovered he could see everyone's rolls through
   a permissions bug and reported it immediately (29/09 00:49).
 - Some forms sound Slovak ("prsteň", "Dobré"); may be Whisper. Describes forging with what sounds
@@ -65,6 +67,14 @@ dělám, potom přemýšlím." "Nalít krev na příště? Fungovat?"
   from his own bolts, grabs Carman's hammer uninvited, loads his crossbow to "být první" into the
   fight. Pressed the healer's kit on Trigwynn and then Ezekiel until Veru said it annoyed her.
 - **Curious rather than brave.** Wants to bottle kobold blood "na příště", but "Bojím se jít sám."
+- **Panics out loud, then does the unglamorous thing.** On 01/11 he was the only one standing
+  with three friends face-down in the water: "Já nemůžu s váma nic dělat… já nemám žádnou
+  hodnotu", "buď zdrhnout, jediný přežiju, nebo jít all in" (01:38). He wanted to shoot the
+  rat; Dan's hint about its five wasted actions turned him around, and he spent the next rounds
+  grappling and dragging each body out, then rebuilt the barricade and tried to craft a Nail
+  Bomb with the nails Arnold had given him (failed, lost half). His crit-failed Recall Knowledge
+  ("burning rats run into water") he played straight, and Dan praised him for it. Rode on
+  Arnold's shoulders for the whole fight by his own choice.
 - **Meta-reflective at times.** "Zajímavý fenomén… že něco trvá díl, jak to hraješ, než jako i dole
   v té hře." Suspects Keeleno's interest is "konkrétně na mě", so he is thinking about his origin.
 
@@ -94,7 +104,7 @@ forgets NPC names.
 29/09 hyperactive in the corner, soundboard, courier, lockpick from bolts. 11/10 the machine
 and the lever, three Overdrive failures taken with grace, the fish thief theory. 13/10 forging
 with Carman, currency ruling, leaves at the hour. 21/10 absent. 26/10 six-minute cameo defending
-the system.
+the system. 01/11 the last one standing, three rescues from the water, warp fire lore.
 
 ## Signature quotes
 
@@ -108,6 +118,9 @@ the system.
 - 13/10 00:07 "jestli na nás nemá nějaký větší zájem, než konkrétně na mě, jo?"
 - 13/10 00:34 "Všechno mít už starý, pokažený, něco zapomenout doma? Nevím, jak vrátit."
 - 26/10 00:22 "ten Pathfinder mi to dá po prvním vysvětlení hned smysl"
+- 01/11 00:28 "Já cítím domov."
+- 01/11 01:38 "Já nemůžu vás postavit, nemůžu vás oživit, já nemám žádnou hodnotu."
+- 01/11 01:51 "Ty nevědět, co být varpový oheň? To každý vědět. Každý bát."
 
 ## What works with him
 

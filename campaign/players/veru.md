@@ -17,7 +17,12 @@ on her own.
   Pelhřimov that she made homely with fairy lights (29/09 02:40). Wants to host a live session.
 - Not a tech person and says so. Six-year-old laptop with 6 MB free, computer freezing in
   three of four sessions, an hour of the 21/10 session lost to it.
-- Said on 11/10 she will need to play less from November (02:41).
+- Said on 11/10 she will need to play less from November (02:41). On 01/11 it became concrete:
+  she has exams coming ("jsem z třicátého" [?]), said she might leave after an hour to study,
+  and stayed the whole evening anyway. Dan offered weekly one-hour sessions or biweekly long
+  ones; undecided. Hospital stories at the end: assisting at a gallbladder operation that was
+  converted to open surgery, holding retractors for twenty minutes; "radši bych se učila
+  pediatrii, než tu traumu" (02:39).
 - Her character's name is an anagram found via Wikipedia, "nějaká norská mytologie" / Beowulf.
   She wrote six pages of backstory and a side plot she could not fit in (29/09 02:11, 02:33).
 
@@ -77,6 +82,12 @@ She is in character perhaps a third of the time; much of her airtime goes to UI 
   hour later, "Takže já jsem ten psychopat." She gives guarded minimal answers in the question
   game and mutters "A jo, já jsem to neměla říkat" after one (03:43).
 - **Time-aware.** First to ask how long people want to play and to say it is late.
+- **Fatalistic about Trigwynn's body, protective of her pride.** On 01/11 Trigwynn was the first
+  down, burning, and crit-failed a recovery check; Veru's reaction was a shrug and dark jokes
+  ("Hoďte ji do té vody, do těch sraček", "Já stejně umřu"), the Hero Point only when Dan
+  reminded her. When Dan said afterwards that Trigwynn has three or four free heals from her
+  focus spell, Veru's answer was in character: "Ona to nerada dělá, ona nechce být slabá, ona
+  je dominátora." (02:17). The character's self-image beats the party's survival.
 - Reaction to success is understated ("To je tak crazy."). Reaction to failure is a shrug and
   another angle, not sulking. Persistent to the point of stubbornness in haggling (three pushes
   at Keeleno, then Carman twice, until he caved).
@@ -116,6 +127,8 @@ barely register; she never raises loot herself.
 29/09 bold but mechanically lost. 11/10 the analyst and the conscience, flags her hunger.
 13/10 the beggar kill, planned and cold. 21/10 deception and shaming as play, best combat
 results, worst tech evening. 26/10 defines her long-term goal and offers to shape Arnold's arc.
+01/11 sharing her PC with Makak, first brush with death, saved by a Hero Point, refuses the
+free heals on principle.
 
 ## Signature quotes
 
@@ -129,6 +142,8 @@ results, worst tech evening. 26/10 defines her long-term goal and offers to shap
 - 21/10 02:45 "Mě teďka zabíjí jak healování, tak jako zabíjení? Okej. To zní výhodně."
 - 21/10 03:31 "Po otázce má přijít odpověď, ale ne další otázka. Ty jsi to nepochopil, Arnolde?"
 - 26/10 00:17 "já vlastně furt někde číhám a hledám ty lidi, co bych mohla zabít"
+- 01/11 00:19 "Já bych tomu neříkala rabování, mnohem lepší je slovo průzkum. Vyklízení."
+- 01/11 02:17 "Ona to nerada dělá, ona nechce být slabá, ona je dominátora."
 
 ## What works with her
 

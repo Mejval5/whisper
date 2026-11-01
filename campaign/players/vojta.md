@@ -78,6 +78,13 @@ crisis "možná takhle se cítil ten bezdomovec na ulici, akorát zrychleně" (2
 - Reaction to failure is light ("GG! Asi ne.", "Ty jo, no tak jsem skončil."). First kill was
   celebrated. Eats a sugared lemon during breaks, announces bathroom breaks, otherwise the most
   on-task player.
+- **Owns his mistakes, in and out of character.** On 01/11 he walked to the altar first without
+  full HP, forgot he was burning and went down a second time ("To jsem zapomněl"). Ezekiel's
+  post-mortem came in full register ("Abych analyzoval tento náš předchozí souboj, myslím, že
+  jsme přišli celé nepřipraveni"), his own in the debrief: "mohl jsem říct, že počkáme třicet
+  minut na začátku", "nevyšla mě ta action economy" (02:15, 02:23). He also read the fish-bone
+  signs confidently and wrongly (treasure) and played the crit-failed warp fire lore straight,
+  with in-character questions rather than winking.
 
 ## Relationship to Ezekiel
 
@@ -112,7 +119,8 @@ competently and without relish. Loot rarely interests him.
 fight, wins every party decision (Tamily deception, retreat), wants to skip town. 13/10 the
 alley pact with Trigwynn, lies for her. 21/10 downed, rescued, the oil ritual, hosts the
 question game. 31/10 private call: owns the "rule of cool" build, states the god goal, takes
-the manipulator reading of his reason for Otari and asks for a scene of his own.
+the manipulator reading of his reason for Otari and asks for a scene of his own. 01/11 first
+to the altar, downed twice, saved by the oil and a crit success, calls the retreat in character.
 
 ## Private call (31/10)
 
@@ -163,6 +171,9 @@ můžeme pokračovat". Transcript: `sessions/2026-10-31_private_vojta/transcript
 - 31/10 00:03 "moje postava jede hlavně na rule of cool. Nebo na takový vibe, prostě."
 - 31/10 00:23 "ten long term cíl Ezekiela je asi jako prostě stvořit dokonalou bytost, abych já byl ta dokonalá bytost"
 - 31/10 00:37 "Já to někde udělám nějaký reveal, že jsem vlastně čůrák"
+- 01/11 00:19 "Rád bych připomněl, že jsme si jich všimli až poté, co jsme vyrabovali onu hrobku."
+- 01/11 01:50 "Obávám se, že tentokrát jsme si ukousli příliš velký kus falafelu."
+- 01/11 01:53 "Můžeš mi prozradit, jaký typ krysy se dokáže pokrýt varpovým ohněm a přežít?"
 
 ## What works with him
 

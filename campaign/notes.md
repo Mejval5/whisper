@@ -25,12 +25,59 @@ each); older sessions keep their shared-mic mapping in `sessions/<session>/speak
 - until 29/09/2026: Veru and Vojta shared vrnk3014, Makak on makak4376.
 - 11/10/2026: Veru, Vojta and Makak in person on one account, **prkno**.
 - 13/10/2026: everyone on their own mic. vrnk3014 = Veru, prkno = Vojta, makak4376 = Makak.
+- 01/11/2026: Veru and Makak together at Veru's, both on **vrnk3014**; no makak4376 track.
 
 On a shared track, tell them apart by voice and grammar: Ezekiel speaks in masculine forms and
 formal, archaic Czech ("Vyražme", "avšak"), Trigwynn in feminine forms, Arnold in a male voice
 (possibly still the machine speech; it may go).
 
-## Where we are (after 2026-10-21)
+## Where we are (after 2026-11-01, session 8)
+
+- **Near-wipe in A14 (room of the four orbs).** The party took down the north barricade in A12
+  (10 min, crowbar, 20 nails to Rikkit), waded knee-deep through A13 and entered A14. When
+  Ezekiel approached the marble altar in the middle, the fire orb burst and a **fire rat** came
+  out, wreathed in choking smoke. It downed and set fire to Trigwynn, Arnold and Ezekiel within
+  a few rounds (two crits, 16 and 24). Trigwynn and Arnold survived only by spending their Hero
+  Points; Ezekiel by a crit success on a recovery check and 6 HP from the Oil of Unlife. Rikkit,
+  the only one standing, dragged all three out of the water they had fallen into face-down and
+  back to A12. **The rat does not enter water**; it stood on the bank and screeched. It is alive
+  in A14.
+- Rikkit rebuilt the A12 north barricade. The three woke after 10 minutes. The party **looted
+  every dead kobold** (A12 and A11) to sell, is at carrying capacity, and **went up to Tamily**.
+  Next session starts with them coming out of the cellar, scorched.
+- Plan voiced: buy potions (nobody in town sells them, says Makak), sell kobold gear, a pistol
+  for Arnold (Keeleno's werewolf job), tell each other what each can do, maybe hire a mercenary
+  (Arnold).
+- Left behind in A14: Trigwynn's bow, Arnold's hand crossbow with bolts and a torch.
+- Everlight Crystal back with Arnold. Ezekiel's Oil of Unlife used up (on Ezekiel). Hero Points:
+  Trigwynn 0, Arnold 0. Rikkit: 10 nails left after a failed Nail Bomb.
+- Beliefs from this session: Ezekiel thinks the fish-bone signs mark hidden treasure (wrong, GM
+  corrected on Messenger: protection against feared magical creatures) and that "warp fire" is
+  the Qadiran cold green "osnovní oheň" (crit fail, GM lore in the bot). Arnold thinks warp fire
+  is made up. Rikkit "remembers" burning rats running into water (crit fail).
+- Scheduling: no game next week; 10/11 or 17/11 [?]. Veru has to study and may play less or
+  only an hour; Dan is fine playing with three.
+- Full detail -> `sessions/2026-11-01_session/summary.md`.
+
+## Where we were (after 2026-10-27, session 7, unrecorded)
+
+Session 7 had no Craig recording; this comes from the GM's own write-up in the bot
+(`sezeni/sezeni_07/zapis.md`).
+
+- **Floor 2, room 12 (kobold watch post) cleared and fortified.** Rikkit stepped on a snare at
+  the foot of the spiral stairs and went down in round 1; revived, he shot from the stairs. The
+  trapmaster fetched all six warriors from the den (17); three stayed behind the narrow passage
+  to the fountain room (16). Arnold shoved a table into that passage and turned it 90 degrees so
+  it stands there as a makeshift door; the kobolds inside died. **Three warriors wait behind the
+  table**, the den (17) is empty, the **trapmaster's fate is unknown** (dead or among the three).
+- Rikkit (Milan) was back. Nobody died. Healing after: chalice, Treat Wounds, a potion.
+- Rikkit barricaded the door with crates and set a trap of soap and arrowheads on the tile in
+  front of the table (mechanics to be decided by the GM).
+- Ezekiel fought up close with spear, shield and sickle; Rikkit's "rocket jump" over a kobold
+  singed him. XP about 600 before session 7, level 2 at 1000.
+- In-game time: afternoon/evening of 29 Pharast 4721. Next: rest behind the barricade, or push on.
+
+## Where we were (after 2026-10-21)
 
 - **A11 throne hall cleared**: four kobolds dead this session. The **Kobold Trapmaster fled down
   the spiral stairs** (to floor 2), holding Trigwynn's arrow he caught in mid-air. More kobolds
@@ -67,6 +114,15 @@ Numbering follows the GM's `sezeni.md`, which counts an unrecorded crypt-fight s
   Ezekiel downed, Trigwynn kills three kobolds and revives Ezekiel with her curse, trapmaster
   flees downstairs. Oil of Unlife to Arnold, Trigwynn's fake calluses, "ukaž boky", second
   question game. -> `sessions/2026-10-21_session/summary.md`
+- **Session 7** (27/10/2026): **not recorded.** Floor 2, room 12: snare, kobold fight, Arnold's
+  table-as-door, Rikkit's soap trap. Only the GM's write-up exists, in the bot:
+  `ai-plugins/.../sezeni/sezeni_07/zapis.md`.
+- Private calls (transcript only, no summary): Dan + Veru and Dan + Makak on 26/10, Dan + Vojta
+  on 31/10 -> `sessions/2026-10-*_private_*/transcript.md`. Their content is in the bot under
+  `sezeni/soukroma/` and in the player profiles.
+- **Session 8** (01/11/2026): Veru and Makak on one mic. North barricade in A12 taken down,
+  flooded A13, the fire rat in A14 nearly kills three; Hero Points, Rikkit's rescues, retreat to
+  A12, loot everything, back up to Tamily. -> `sessions/2026-11-01_session/summary.md`
 
 ## Important NPCs
 
@@ -96,6 +152,10 @@ Numbering follows the GM's `sezeni.md`, which counts an unrecorded crypt-fight s
   Trigwynn's arrow. Floor 2 is warned.
 - **The dead from the sarcophagus** -> left the crypt before the barricade went up. Whereabouts
   unknown.
+- **Fire rat (A14)** -> a fire elemental the size of a child, ember eyes, wreathed in choking
+  smoke (concealed, Fortitude or sickened). Bites for fire damage and sets the target burning
+  (1d4 persistent, flat 15 to put out, or lie in the water). Does not enter water. Alive, by
+  the altar in A14. Rikkit says such rats were possessed Skaven slaves in a fight with Khorne.
 
 ## Places
 
@@ -112,24 +172,44 @@ Numbering follows the GM's `sezeni.md`, which counts an unrecorded crypt-fight s
   on the barricade. Gear machine (bell wheel, spear wheel, safety latch) works the A11 trap;
   jammed after the bell rang. Wall slits look into A11.
 - **A11 hall** -> cleared 21/10. Spiral stairs at the back lead down to floor 2 (trapmaster fled
-  there). GM: the room with the stairs is "certainly special". A pile of kobold armour.
+  there). GM: the room with the stairs is "certainly special". Kobold gear looted 01/11.
+- **A12 kobold watch post** (floor 2) -> cleared 27/10. West: table turned into the passage to
+  the fountain room as a door, three warriors behind it, quiet. North: barricade of planks with
+  salt and fish-bone signs (different from upstairs), taken down 01/11 and rebuilt by Rikkit.
+- **A13 flooded corridor** -> dripping water, knee-deep clear stale water, smell of sulphur,
+  flickering light from the right-hand corridor. The left-hand corridor was not looked at.
+- **A14 room of the orbs** -> three pulsing orbs in the corners (earth and stone SW, swirling
+  dust and cloud NE, fire E), the fourth shattered and leaking water. Marble altar with an
+  empty bowl in the middle; approaching it woke the fire rat. Trigwynn's bow and Arnold's
+  crossbow and torch lie there.
 
 ## Items
 
-- **Everlight Crystal** -> Ezekiel's belt since 21/10, still in the fishing net (half range).
-  Arnold says "the ball is mine" and wants it back once they are out.
-- **Oil of Unlife** -> one jar given to Arnold 21/10 (direst need only), to be returned.
+- **Everlight Crystal** -> back with Arnold since 01/11 (Ezekiel left it on a kobold pile for him).
+- **Oil of Unlife** -> the jar Arnold held was used on Ezekiel 01/11 (+6 HP). Gone.
 - Arnold: new hand crossbow, 2 healing potions, 5 gp from Tamily. Sold the gem shortsword and
   other spare weapons. His old crossbow and torch are still in A11.
 - Rikkit: 100 bolts [?], Artisan's Tools and the forge key from Carman, the brake sketch,
-  Sold his sling. Repaired Ezekiel's sickle.
+  Sold his sling. Repaired Ezekiel's sickle. 10 nails (01/11), flammable chalk.
 - Trigwynn: armour now worn, no longer encumbered. Shortbow + 20 arrows from Ezekiel, battleaxe.
-  Sold the scimitar.
+  Sold the scimitar. Bow left in A14 (01/11) [?] retrieved.
 - Ezekiel: folding sickle repaired by Rikkit. Healing potions and Treat Wounds do not work on
   him (needs Stitch Flesh); only the chalice, Oil of Unlife, Trigwynn's ability. Sold scimitars.
 
 ## Open threads
 
+- **The fire rat in A14** blocks the way to the air and earth orbs (canon: one-off blessings)
+  and whatever lies beyond. Water stops it. The party has not seen its weaknesses.
+- **Gear left in A14**: Trigwynn's bow, Arnold's hand crossbow and torch.
+- **Trigwynn's free heals**: the GM said aloud she has 3-4 heals from her focus spell at the
+  cost of weakening; Veru keeps Trigwynn from using them ("ona je dominátora").
+- **Arnold's pistol**: "lost on the way here", claims mastery of all weapons, "brokovnice".
+  Keeleno's job is the hook. Wants to sell all kobold gear for a "big cannon".
+- **Arnold wants a round of "what can each of us do"** and floated hiring a mercenary.
+- **Three false beliefs** to play out: Ezekiel (signs = treasure; osnovní oheň), Arnold (warp fire
+  is fiction), Rikkit (burning rats run into water).
+- The three warriors behind the table in A12, and the left corridor of A13, untouched.
+- Format from November: Veru studying; weekly one hour vs. biweekly long, undecided.
 - **Arnold's flashbacks:** GM sent Flashback 2 (spiral stairs) and reposted Interlude A. Makak
   misread Interlude A (grooves on the woman's side, not the ball's) -> "show your hips". Agreed:
   Arnold had a glitch and will work out in play that the grooves are on the ball.

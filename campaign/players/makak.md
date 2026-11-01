@@ -17,7 +17,8 @@ main roleplayer and yields to the GM faster than his arguing suggests.
   app; Makak offered a share within minutes ("klidně ti z toho dám nějaký podíl").
 - Lives near Jindřichův Hradec. Moving house. Overloaded: "za poslední dva měsíce jsem neměl
   minutu na zastavení", "hoří za prdelí 30 věcí" (26/10 00:02, 00:06). Was building furniture
-  until 2 am before the 21/10 session.
+  until 2 am before the 21/10 session. Came to the 01/11 session straight off a weekend on
+  duty: in from Friday, served, Saturday till noon, then on call by phone (02:36).
 - Writes a theatre play ("psát tu svoji divadelní hru"). Goes to LAN parties. Watches wrestling
   (the Undertaker). Privacy-minded: chose a robot vacuum for EU servers, "nechci posílat žádný
   data Microsoftu". New sub-1 kg HP laptop, ten-year-old desktop, no proper rig to play on in
@@ -78,6 +79,14 @@ no in-character voice at all, and he admits "se blbě jako vysvětluje" when a t
   still did everything asked (barricade, dropped the two-sword idea). On 26/10 he framed it as
   "chápu, že to chceš založit na realismu, ale zas ať toho realismu tam není tolik, že to pak
   kazí plynulost" and said there is no blocker.
+- **Commits to a plan past the point of sense, then takes the consequences.** On 01/11 he
+  grappled the fire rat one-handed and tried twice to drag it into the water to drown it; Dan
+  warned him three times that he was holding the rat between the party and the exit and
+  "radši držíš krysu než svoji zbraň". He held on until Ezekiel went down, then dropped
+  crossbow and Rikkit and spent the oil on Ezekiel. Offered a retroactive undo by the GM, he
+  refused: "Ne, ať se stane, co má." (01:25). Spent his Hero Point to live. In the debrief the
+  blame went to the module ("je to úplně posraný"), not to the plan, and he was already
+  browsing guns and a Rikkit-on-shoulders combo.
 - **Impulsive in fiction, loot-first.** Punches the machine, bursts through the door the moment
   Ezekiel says "pojďme" and eats a crit, raises his sword at a merchant "chtěl jsem ukázat
   ostrost meče". Palmed all eight riddle coins while roleplaying "dovolte, ať ochráním skupinu"
@@ -108,7 +117,10 @@ deciding who Arnold was, because "já o tom teďka v tenhle moment nemám vědě
 
 Build: delays Chronoskimmer until the time-travel reveal, takes Sentinel for AC meanwhile.
 Primary in-game goal is a pistol ("sehnat někde pořádný zbraně, ten zbytek se nějak najde sám");
-backup plan is to have Rikkit build one.
+backup plan is to have Rikkit build one. On 01/11 he gave the pistol a backstory at the table,
+unprompted: Arnold lost his on the way here, masters "veškeré techniky zabíjení se zbraněmi",
+and "ve vaší době tomu říkáte brokovnice" (01:57). He also proposed a round of "what can each
+of us do" and hiring a mercenary as a sacrificial front line.
 
 He sees himself as the group's main roleplayer and is frustrated that Veru and Vojta "roll-call"
 instead of roleplay (26/10 00:37: "zjišťuju, že jsem jediný, kdo to dělá"). The roleplay he means
@@ -138,6 +150,7 @@ hands on 11/10, two callus checks on 13/10, "Odhal svoje boky, prosím." on 21/1
 sours into rules complaints, "useless". 13/10 strongman slapstick, callus detective, Foundry
 tutor. 21/10 robot voice back as the group's favourite bit, the potion farce, "ukaž boky".
 26/10 private: candid, tired, Terminator brainstorming, wants a pistol and fewer clicks.
+01/11 at Veru's, the drown-the-rat plan, Hero Point, pistol backstory, gun catalogue.
 
 ## Signature quotes
 
@@ -153,6 +166,9 @@ tutor. 21/10 robot voice back as the group's favourite bit, the potion farce, "u
 - 26/10 00:21 "chápu, že to chceš založit na realismu, ale zas ať toho realismu tam není tolik, že to pak kazí plynulost té hry"
 - 26/10 00:37 "já bych tam radši jako roleplay dal, ale zjišťuju, že jsem jediný, kdo to dělá."
 - 26/10 01:34 "A vlastně můžu říct, že to byl calculated play, na to abych dostal jeho lahvičku."
+- 01/11 00:31 "Tahle rybárna má kanalizaci, moderní rybárna."
+- 01/11 01:08 "Arnold by rád čapnul malý dítě a hodil ho do prdele do té vody."
+- 01/11 02:00 "navrhuji najmout žoldáka, potřebujeme někoho do předních řad, obětního beránka, nemusí se s námi vrátit na povrch"
 
 ## What works with him
 

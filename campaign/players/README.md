@@ -13,8 +13,9 @@ recordings only. One file per player.
 
 ## Sources
 
-Seven recordings between 2026-09-29 and 2026-10-31: four group sessions and three private calls
-(Dan with Veru and Dan with Makak on 26/10, Dan with Vojta on 31/10). About 12 hours of audio.
+Eight recordings between 2026-09-29 and 2026-11-01: five group sessions and three private calls
+(Dan with Veru and Dan with Makak on 26/10, Dan with Vojta on 31/10). About 15 hours of audio.
+Session 7 (27/10) was not recorded.
 The same profiles live in the GM bot as `ai-plugins/.../pathfinder/references/hrac_<name>.md`,
 translated to Czech; keep the two in step.
 
@@ -22,9 +23,10 @@ translated to Czech; keep the two in step.
 
 - Everything rests on what was said on the recordings. Nothing is taken from outside the audio.
   Life details are included only where the player volunteered them on tape.
-- Sessions 29/09 and 11/10 were on shared mics. Lines were attributed by grammatical gender,
-  register and content. Attribution is reliable for in-character speech and for feminine forms,
-  weaker for neutral out-of-character lines between Vojta and Makak.
+- Sessions 29/09 and 11/10 were on shared mics, and on 01/11 Veru and Makak shared one again.
+  Lines were attributed by grammatical gender, register and content. Attribution is reliable
+  for in-character speech and for feminine forms, weaker for neutral out-of-character lines
+  between Vojta and Makak (and between Veru and Makak on 01/11).
 - Whisper garbles words and sometimes loops a phrase 20–40 times. Quotes were checked against
   context and loops were ignored, but a single word in a quote can still be wrong.
 - These are impressions of friends at a game table, not clinical assessments. Treat them as a
