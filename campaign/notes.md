@@ -161,6 +161,8 @@ Numbering follows the GM's `sezeni.md`, which counts an unrecorded crypt-fight s
   orange thief, Ezekiel heals him with blood, Keeleno's pistol and 20% discount, Rikkit's
   workbench at Carman's, Zarmavdian's spellbook, Lardus's theft job and the key to the Thirsty
   Alpaca. -> `sessions/2026-11-10_session/summary.md`
+  Debrief recorded right after (Dan, Makak, Vojta, 37 min): Foundry bugs and ideas, now cards on
+  the Otari GM Board -> `sessions/2026-11-10_post/transcript.md`.
 
 ## Important NPCs
 
