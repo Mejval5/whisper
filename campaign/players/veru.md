@@ -128,7 +128,7 @@ barely register; she never raises loot herself.
 13/10 the beggar kill, planned and cold. 21/10 deception and shaming as play, best combat
 results, worst tech evening. 26/10 defines her long-term goal and offers to shape Arnold's arc.
 01/11 sharing her PC with Makak, first brush with death, saved by a Hero Point, refuses the
-free heals on principle.
+free heals on principle. 10/11 absent (studying); Trigwynn slept at the fishery.
 
 ## Signature quotes
 

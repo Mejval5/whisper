@@ -87,6 +87,14 @@ no in-character voice at all, and he admits "se blbě jako vysvětluje" when a t
   refused: "Ne, ať se stane, co má." (01:25). Spent his Hero Point to live. In the debrief the
   blame went to the module ("je to úplně posraný"), not to the plan, and he was already
   browsing guns and a Rikkit-on-shoulders combo.
+- **Drove the town day (10/11).** Without Veru he set most of the agenda: stood over the sleeping
+  Ezekiel with one red eye, recruited Rikkit as his on-shoulder reloader ("odteď budeme bojovat
+  spolu"), shot the orange thief at 65 ft without hesitation and lethally, then stared down the
+  guard captain and walked out with a detective job and the Alpaca key ("I'll be back",
+  "Robocop"). Wants weapons, a bomb, armoury access; jokes about Arnold shooting up the prison
+  and taking a child as a living shield or light-bearer. Played his first Chronoskimmer moment
+  himself (hands freezing). Wrote session notes and wanted memes; said the random town play is
+  what he enjoys most so far.
 - **Impulsive in fiction, loot-first.** Punches the machine, bursts through the door the moment
   Ezekiel says "pojďme" and eats a crit, raises his sword at a merchant "chtěl jsem ukázat
   ostrost meče". Palmed all eight riddle coins while roleplaying "dovolte, ať ochráním skupinu"
@@ -151,6 +159,7 @@ sours into rules complaints, "useless". 13/10 strongman slapstick, callus detect
 tutor. 21/10 robot voice back as the group's favourite bit, the potion farce, "ukaž boky".
 26/10 private: candid, tired, Terminator brainstorming, wants a pistol and fewer clicks.
 01/11 at Veru's, the drown-the-rat plan, Hero Point, pistol backstory, gun catalogue.
+10/11 gets the dragon-mouth pistol and 20% off at Keeleno's, shoots the thief, Lardus's job.
 
 ## Signature quotes
 
@@ -169,6 +178,9 @@ tutor. 21/10 robot voice back as the group's favourite bit, the potion farce, "u
 - 01/11 00:31 "Tahle rybárna má kanalizaci, moderní rybárna."
 - 01/11 01:08 "Arnold by rád čapnul malý dítě a hodil ho do prdele do té vody."
 - 01/11 02:00 "navrhuji najmout žoldáka, potřebujeme někoho do předních řad, obětního beránka, nemusí se s námi vrátit na povrch"
+- 10/11 00:46 "Mé střely nikdy neminou."
+- 10/11 01:55 "Pánové, právě jsem nalezl dobrý živý štít."
+- 10/11 02:19 "mě zatím tady tyhle ty prostě náhodný endgame, který ve městě baví, zatím nejvíc"
 
 ## What works with him
 

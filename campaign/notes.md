@@ -26,12 +26,46 @@ each); older sessions keep their shared-mic mapping in `sessions/<session>/speak
 - 11/10/2026: Veru, Vojta and Makak in person on one account, **prkno**.
 - 13/10/2026: everyone on their own mic. vrnk3014 = Veru, prkno = Vojta, makak4376 = Makak.
 - 01/11/2026: Veru and Makak together at Veru's, both on **vrnk3014**; no makak4376 track.
+- 10/11/2026: Vojta, Makak and Milan each on their own account; Veru absent (no vrnk3014 track).
 
 On a shared track, tell them apart by voice and grammar: Ezekiel speaks in masculine forms and
 formal, archaic Czech ("Vyražme", "avšak"), Trigwynn in feminine forms, Arnold in a male voice
 (possibly still the machine speech; it may go).
 
-## Where we are (after 2026-11-01, session 8)
+## Where we are (after 2026-11-10, session 9)
+
+- **Town day, improvised by Dan** (his prep in the bot, `sezeni_09/priprava.md`, was mostly not
+  used). Evening 29 Pharast: up through the busy fishery tavern past a frightened Tamily, Ezekiel
+  tells her the tunnels go further and to block the cellar door; long rest in the rooms. **Level 2**
+  for Ezekiel, Arnold, Rikkit overnight (Ezekiel laughed manically in the night; Arnold saw his
+  hands freeze and something appear beside them). Trigwynn went to sleep and stayed there.
+- Morning 30 Pharast, market: four guards wanted to see under Ezekiel's mask (he claimed
+  leprosy, Diplomacy went badly). Arnold spotted the real orange thief and **shot him with the
+  crossbow** at 65 ft, arrow into the spine. Ezekiel then healed the thief with **his own blood**
+  (black liquid, the guards horrified) and the thief **escaped up the cliff**; the guards chased him
+  into the hills.
+- **Keeleno**: Arnold gets **20% off forever**; sold him the **Dragon-Mouth Pistol for 7 gp**
+  (left by an adventurer who gave up on Otari), rounds 1 sp per 10. Bought Ezekiel's 3 leather
+  armour and 4 spears for 6 gp after haggling; despises Ezekiel ("emo masky", unfriendly).
+- **Rikkit** found **Crow's Casks** (Magiloy, a giant raven / tengu brewer-scientist): beer, a
+  waterskin of beer, an alchemist's kit, a Holy Water Vial. Dragged a crate to **Carman**, who gave
+  him a third of his table as a **workbench** "if you stop the flume".
+- **Ezekiel** at **Odd Stories** (Morlibint) bought **Zarmavdian's spellbook** for 1 gp (spells up
+  to 8th level, mostly unreadable; Occultism told him who Zarmavdian was). Invited to Vandy's
+  poetry circle. Morlibint's eye-in-purple-flames pendant costs 60 gp. Ezekiel bought a healing
+  potion from Magiloy and found he still has **one Oil of Unlife** in Foundry (contradicts 01/11).
+- **Arnold** took the lost-stamp notice off the garrison board (Carman's stamp with a monogram,
+  reward: one of Carman's scrolls) and got a job from the **guard captain (Lardus, name not said)**:
+  houses robbed through cellar holes that join in a tunnel under the **Thirsty Alpaca** ruins;
+  victims old Nela (silver spoon), a carpenter (week's pay), the cooper's widow (ring). Wants
+  one name, alive. Gave Arnold the **key to the Alpaca service entrance**. Arnold wants armoury access.
+- **End:** Ezekiel and Arnold unlocked the chained trapdoor in the Alpaca ruins and stand on the
+  stairs in the dark; Ezekiel gave Arnold 6 temp HP of blood. Chalk note "jsme uvnitř" + arrow
+  and a candle left for Trigwynn. Rikkit's player left at 02:02. Next session starts below the
+  Alpaca (Dan has the map). The sickle is still in A14 with the fire rat.
+- Full detail -> `sessions/2026-11-10_session/summary.md`.
+
+## Where we were (after 2026-11-01, session 8)
 
 - **Near-wipe in A14 (room of the four orbs).** The party took down the north barricade in A12
   (10 min, crowbar, 20 nails to Rikkit), waded knee-deep through A13 and entered A14. When
@@ -123,6 +157,10 @@ Numbering follows the GM's `sezeni.md`, which counts an unrecorded crypt-fight s
 - **Session 8** (01/11/2026): Veru and Makak on one mic. North barricade in A12 taken down,
   flooded A13, the fire rat in A14 nearly kills three; Hero Points, Rikkit's rescues, retreat to
   A12, loot everything, back up to Tamily. -> `sessions/2026-11-01_session/summary.md`
+- **Session 9** (10/11/2026): Veru absent. Level 2, a town day off Dan's prep: Arnold shoots the
+  orange thief, Ezekiel heals him with blood, Keeleno's pistol and 20% discount, Rikkit's
+  workbench at Carman's, Zarmavdian's spellbook, Lardus's theft job and the key to the Thirsty
+  Alpaca. -> `sessions/2026-11-10_session/summary.md`
 
 ## Important NPCs
 
@@ -131,7 +169,9 @@ Numbering follows the GM's `sezeni.md`, which counts an unrecorded crypt-fight s
   gone, she is afraid to go down. Ezekiel told her only about rats, a giant spider and "a gap
   behind the spider". She does not believe rats and a spider ate a ton of fish. Gave 2 healing
   potions, 5 gp advance and rooms; will ask the guards in the morning.
-- **Keeleno Lathenar** (name not said at the table yet) -> runs Otari Market. Buys at half price,
+- **Keeleno Lathenar** (Makak calls him "Keeland") -> runs Otari Market. Since 10/11 gives Arnold
+  20% off for shooting the orange thief, sold him the Dragon-Mouth Pistol (7 gp); unfriendly to
+  Ezekiel. Buys at half price,
   no haggling, "bought too much iron already". A werewolf, "a local druid", killed his wife years
   ago; the guard had no proof. Hired Verrick "yesterday evening" to visit the druid; Verrick has
   not returned. Offers the party 20 gp + the silver dagger he carries (refuses to give it in
@@ -140,7 +180,17 @@ Numbering follows the GM's `sezeni.md`, which counts an unrecorded crypt-fight s
 - **Carman Rajani** -> smith, Blades for Glades (north of town). Gave Rikkit the forge key, old
   artisan's tools and a sketch: build a brake that stops the **logging flume**, must look like a
   breakdown, fit it at night when the guard changes, deadline 3-4 days, "elections in a week".
-  Offered Rikkit 5 sp/day work. Bought Trigwynn's scimitar for 8 sp.
+  Offered Rikkit 5 sp/day work. Bought Trigwynn's scimitar for 8 sp. 10/11: gave Rikkit a third
+  of his table as a workbench "if you stop the flume"; promises Arnold a scroll for his lost stamp.
+- **Lardus** (guard captain, name not said at the table) -> foul-mouthed, short of men. Gave
+  Arnold the theft job and the Thirsty Alpaca key; wants one name, not a guild, alive. Hinted
+  he suspects "that guy" [?] (Carman?).
+- **Magiloy** -> Crow's Casks, a giant raven (tengu) brewer who talks chemistry; sells potions,
+  alchemist's gear, holy water. Rikkit's new favourite place.
+- **Morlibint** -> Odd Stories (books, north of the market), absent-minded; a rat ate his almanac.
+  Sold Ezekiel Zarmavdian's spellbook. Friends with Vandy (Dawnflower Library, poetry circle).
+- **The orange thief** -> an ordinary vagrant, shot by Arnold, drank Ezekiel's blood, fled into
+  the hills.
 - **Kurator Ilya** -> Ezekiel's acquaintance. Carman thinks he may be at **Crook's Nook** (tavern
   on the big bridge over the river) in the evenings.
 - **The beggar** -> old sailor, 40 years at sea, daughters in Absalom. Killed by Trigwynn in an
@@ -162,6 +212,12 @@ Numbering follows the GM's `sezeni.md`, which counts an unrecorded crypt-fight s
 - **Otari** -> the town. The fishery cellar leads down into Menace Under Otari.
 - **Otari Market** (Keeleno), **Blades for Glades** (Carman, north), **Crook's Nook** (tavern on
   the bridge over the river).
+- **Crow's Casks** (Magiloy, brewery-tavern), **Odd Stories** (Morlibint), the **garrison** with
+  the lost-items board, **Dawnflower Library** (Vandy, across the river), Wrin's shop (far north by
+  the river), a school near the Alpaca ruins.
+- **Ruins of the Thirsty Alpaca** -> collapsed old tavern, no obvious cause. Chained trapdoor in
+  the middle, opened 10/11 with Lardus's key; stairs down into the dark. Many tracks around that
+  loop back, none lead down. Per Lardus the robbed cellars' tunnels meet beneath it.
 - **Immenwood** -> north/east of town; woodcutters keep finding claw notches on trunks (the werewolf).
 - **A05 crypt** -> cleared, barricaded again by Arnold with sarcophagi.
 - **A06 shrine of Gozreh** -> silver bowl, once-a-day blessing water (Trigwynn got Ocean's Might,
@@ -186,7 +242,11 @@ Numbering follows the GM's `sezeni.md`, which counts an unrecorded crypt-fight s
 ## Items
 
 - **Everlight Crystal** -> back with Arnold since 01/11 (Ezekiel left it on a kobold pile for him).
-- **Oil of Unlife** -> the jar Arnold held was used on Ezekiel 01/11 (+6 HP). Gone.
+- **Oil of Unlife** -> the jar Arnold held was used on Ezekiel 01/11 (+6 HP). On 10/11 Ezekiel
+  found one still in his Foundry inventory [?] which is right.
+- Arnold (10/11): **Dragon-Mouth Pistol**, rounds, key to the Thirsty Alpaca, the stamp notice,
+  flammable oil [?]. Ezekiel: **Zarmavdian's spellbook**, healing potion, paper and ink [?].
+  Rikkit: alchemist's kit / lab, Holy Water Vial, a waterskin of beer, a crate on his workbench.
 - Arnold: new hand crossbow, 2 healing potions, 5 gp from Tamily. Sold the gem shortsword and
   other spare weapons. His old crossbow and torch are still in A11.
 - Rikkit: 100 bolts [?], Artisan's Tools and the forge key from Carman, the brake sketch,
@@ -198,6 +258,14 @@ Numbering follows the GM's `sezeni.md`, which counts an unrecorded crypt-fight s
 
 ## Open threads
 
+- **Under the Thirsty Alpaca** (next session): Lardus wants one name for the thefts; Arnold wants
+  the armoury.
+- **Carman's stamp** -> a scroll for Arnold. **The flume brake** -> Rikkit's workbench.
+- **Zarmavdian's spellbook** with Ezekiel; Vandy's poetry circle invitation; Morlibint's pendant (60 gp).
+- The orange thief on the run with Ezekiel's blood in him.
+- Not played from Dan's prep: Tamily's payment and potion, Vandy and Harl, Yinyasmera, the
+  fireside debate, Ezekiel's rib rattling, Arnold's jug catch.
+- Arnold and Rikkit now fight as a pair (Rikkit on his shoulder, reloading).
 - **The fire rat in A14** blocks the way to the air and earth orbs (canon: one-off blessings)
   and whatever lies beyond. Water stops it. The party has not seen its weaknesses.
 - **Gear left in A14**: Trigwynn's bow, Arnold's hand crossbow and torch.

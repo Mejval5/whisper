@@ -14,7 +14,8 @@ every session.
   lidi" (13/10 01:00). Absent on 21/10. Dropped into the Makak private call for six minutes on
   26/10 and left with "já musím mizet teďka". Back on 27/10 (unrecorded) and 01/11, where he
   played about two hours and then vanished without a word around 02:00 [?]; the GM moved
-  Rikkit's token for the rest.
+  Rikkit's token for the rest. On 10/11 he warned at 01:51 that he had to go soon and left
+  with an apology at 02:02, near the end.
 - Runs his own soundboard that fights the GM's. Discovered he could see everyone's rolls through
   a permissions bug and reported it immediately (29/09 00:49).
 - Some forms sound Slovak ("prsteň", "Dobré"); may be Whisper. Describes forging with what sounds
@@ -75,6 +76,12 @@ dělám, potom přemýšlím." "Nalít krev na příště? Fungovat?"
   Bomb with the nails Arnold had given him (failed, lost half). His crit-failed Recall Knowledge
   ("burning rats run into water") he played straight, and Dan praised him for it. Rode on
   Arnold's shoulders for the whole fight by his own choice.
+- **Wanders off into his own scene (10/11).** In town he followed the smell and music into
+  Crow's Casks and played a long, delighted exchange with Magiloy about brewing as science ("To
+  být věda, já být taky tak trochu vědec sám"), bought beer and a waterskin full of it, then
+  alchemy gear and holy water, and dragged a crate to Carman's to set up a workbench. Spent a
+  long stretch fighting Foundry inventory and encumbrance. Laughed through Arnold's shooting.
+  Accepted Arnold's "we fight together" plan with polite confusion.
 - **Meta-reflective at times.** "Zajímavý fenomén… že něco trvá díl, jak to hraješ, než jako i dole
   v té hře." Suspects Keeleno's interest is "konkrétně na mě", so he is thinking about his origin.
 
@@ -104,7 +111,8 @@ forgets NPC names.
 29/09 hyperactive in the corner, soundboard, courier, lockpick from bolts. 11/10 the machine
 and the lever, three Overdrive failures taken with grace, the fish thief theory. 13/10 forging
 with Carman, currency ruling, leaves at the hour. 21/10 absent. 26/10 six-minute cameo defending
-the system. 01/11 the last one standing, three rescues from the water, warp fire lore.
+the system. 01/11 the last one standing, three rescues from the water, warp fire lore. 10/11 Crow's Casks,
+beer and alchemy, a workbench at Carman's.
 
 ## Signature quotes
 
@@ -121,6 +129,7 @@ the system. 01/11 the last one standing, three rescues from the water, warp fire
 - 01/11 00:28 "Já cítím domov."
 - 01/11 01:38 "Já nemůžu vás postavit, nemůžu vás oživit, já nemám žádnou hodnotu."
 - 01/11 01:51 "Ty nevědět, co být varpový oheň? To každý vědět. Každý bát."
+- 10/11 00:40 "To být věda, já být taky tak trochu vědec sám."
 
 ## What works with him
 

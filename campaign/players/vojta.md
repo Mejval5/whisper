@@ -85,6 +85,14 @@ crisis "možná takhle se cítil ten bezdomovec na ulici, akorát zrychleně" (2
   minut na začátku", "nevyšla mě ta action economy" (02:15, 02:23). He also read the fish-bone
   signs confidently and wrongly (treasure) and played the crit-failed warp fire lore straight,
   with in-character questions rather than winking.
+- **Compassion and craft in town (10/11).** When Arnold shot the orange thief, Ezekiel objected
+  ("Vždyť jenom ukradl pomeranče"), talked the guards into letting him treat the man and fed him
+  his own blood behind a fake pocket-dig, which let the thief escape. Lied smoothly about leprosy,
+  haggled Keeleno up from 5 to 6 gp and explained that not haggling is an insult where he comes
+  from, praised every party member by name in the morning, and went for books and the occult
+  (Zarmavdian's spellbook, Vandy's poetry circle). Played the level-up as a night of manic
+  laughter. Liked the town for its named NPCs. Had mic trouble at the start (Discord treated him
+  as noise).
 
 ## Relationship to Ezekiel
 
@@ -121,6 +129,8 @@ alley pact with Trigwynn, lies for her. 21/10 downed, rescued, the oil ritual, h
 question game. 31/10 private call: owns the "rule of cool" build, states the god goal, takes
 the manipulator reading of his reason for Otari and asks for a scene of his own. 01/11 first
 to the altar, downed twice, saved by the oil and a crit success, calls the retreat in character.
+10/11 the town day: leprosy lie, heals Arnold's victim with blood, buys Zarmavdian's book,
+follows Arnold into the Thirsty Alpaca instead of going for his sickle.
 
 ## Private call (31/10)
 
@@ -174,6 +184,8 @@ můžeme pokračovat". Transcript: `sessions/2026-10-31_private_vojta/transcript
 - 01/11 00:19 "Rád bych připomněl, že jsme si jich všimli až poté, co jsme vyrabovali onu hrobku."
 - 01/11 01:50 "Obávám se, že tentokrát jsme si ukousli příliš velký kus falafelu."
 - 01/11 01:53 "Můžeš mi prozradit, jaký typ krysy se dokáže pokrýt varpovým ohněm a přežít?"
+- 10/11 00:48 "Ne každá medicína vypadá jako cukrová vata, ovšem mělo by to fungovat."
+- 10/11 00:55 "V mém rodném kraji naopak je urážkou, když člověk nesmlouvá."
 
 ## What works with him
 
