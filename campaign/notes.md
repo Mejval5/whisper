@@ -27,12 +27,35 @@ each); older sessions keep their shared-mic mapping in `sessions/<session>/speak
 - 13/10/2026: everyone on their own mic. vrnk3014 = Veru, prkno = Vojta, makak4376 = Makak.
 - 01/11/2026: Veru and Makak together at Veru's, both on **vrnk3014**; no makak4376 track.
 - 10/11/2026: Vojta, Makak and Milan each on their own account; Veru absent (no vrnk3014 track).
+- 17/11/2026: all four on their own account; Veru joined late (~01:58).
 
 On a shared track, tell them apart by voice and grammar: Ezekiel speaks in masculine forms and
 formal, archaic Czech ("Vyražme", "avšak"), Trigwynn in feminine forms, Arnold in a male voice
 (possibly still the machine speech; it may go).
 
-## Where we are (after 2026-11-10, session 9)
+## Where we are (after 2026-11-17, session 10)
+
+- **Under the Thirsty Alpaca.** Down the shaft to the crossroads; four kobolds (Skrrik's patrol)
+  killed. Arnold's dragon-mouth scatter hit Ezekiel (table vote: never Arnold himself).
+- **Fenn's stash** in the Alpaca cellar: lantern, crowbar, silver spoons, smith's apron and tongs
+  stamped **BfG**. Arnold took the spoons (to Rikkit), apron, tongs, lantern (now on his belt, oil),
+  crowbar (to Ezekiel), and faked kobold claw marks in the dust. Arnold blames **Carman**.
+- Crossroads wall: **five houses drawn, three crossed out**. Cave-in north: 2 h of digging, skipped;
+  Ezekiel left a candle there.
+- Arnold smashed a hidden **stone sliding door** (on wheels, oiled, in use) into the **Crow's Casks
+  cellar**; Rikkit bit a barrel and got drunk; Ezekiel saw Magiloy brewing upstairs. Undecided
+  whether to confront Magiloy.
+- Rikkit squeezed north to a **grate under a garrison cell** (straw, bucket; guards had just
+  caught someone). Ezekiel is drawing a map. Arnold writes "byl jsem tady, mocný Černovous" on
+  walls as bait.
+- Trigwynn joined late ("an intuition"), still level 1. She climbed up into **old Nela's** house
+  (lacemaker, silver spoons stolen two days ago, reward posted); Nela shouted for help.
+- **Two rat assassins** (Ashen clan, Dan) called Rikkit by name in his home tongue and attacked
+  from the dark. **Ezekiel crit for 18 and is dying.** Session paused mid-combat. Dan wants
+  Trigwynn at level 2 before continuing.
+- Full detail -> `sessions/2026-11-17_session/summary.md`.
+
+## Where we were (after 2026-11-10, session 9)
 
 - **Town day, improvised by Dan** (his prep in the bot, `sezeni_09/priprava.md`, was mostly not
   used). Evening 29 Pharast: up through the busy fishery tavern past a frightened Tamily, Ezekiel
@@ -163,6 +186,9 @@ Numbering follows the GM's `sezeni.md`, which counts an unrecorded crypt-fight s
   Alpaca. -> `sessions/2026-11-10_session/summary.md`
   Debrief recorded right after (Dan, Makak, Vojta, 37 min): Foundry bugs and ideas, now cards on
   the Otari GM Board -> `sessions/2026-11-10_post/transcript.md`.
+- **Session 10** (17/11/2026): Veru late. Kobolds at the Alpaca crossroads, Fenn's stash (BfG),
+  secret door into Crow's Casks' cellar, grate under a garrison cell, Trigwynn at old Nela's, rat
+  assassins after Rikkit, Ezekiel dying mid-fight. -> `sessions/2026-11-17_session/summary.md`
 
 ## Important NPCs
 
@@ -260,6 +286,8 @@ Numbering follows the GM's `sezeni.md`, which counts an unrecorded crypt-fight s
 
 ## Open threads
 
+- **Fight with the rat assassins** continues; Ezekiel dying. Who sent them (Ashen clan).
+- Magiloy's hidden sliding door; Carman blamed (BfG); the two uncrossed houses; return Nela's spoons.
 - **Under the Thirsty Alpaca** (next session): Lardus wants one name for the thefts; Arnold wants
   the armoury.
 - **Carman's stamp** -> a scroll for Arnold. **The flume brake** -> Rikkit's workbench.

@@ -130,7 +130,8 @@ question game. 31/10 private call: owns the "rule of cool" build, states the god
 the manipulator reading of his reason for Otari and asks for a scene of his own. 01/11 first
 to the altar, downed twice, saved by the oil and a crit success, calls the retreat in character.
 10/11 the town day: leprosy lie, heals Arnold's victim with blood, buys Zarmavdian's book,
-follows Arnold into the Thirsty Alpaca instead of going for his sickle.
+follows Arnold into the Thirsty Alpaca instead of going for his sickle. 17/11 unmasks at a kobold
+("Jsme smrt"), maps the tunnels, holds Arnold back, crit by a rat assassin and dying.
 
 ## Private call (31/10)
 
@@ -186,6 +187,7 @@ můžeme pokračovat". Transcript: `sessions/2026-10-31_private_vojta/transcript
 - 01/11 01:53 "Můžeš mi prozradit, jaký typ krysy se dokáže pokrýt varpovým ohněm a přežít?"
 - 10/11 00:48 "Ne každá medicína vypadá jako cukrová vata, ovšem mělo by to fungovat."
 - 10/11 00:55 "V mém rodném kraji naopak je urážkou, když člověk nesmlouvá."
+- 17/11 00:45 "Jsme smrt a přišli jsme pro tebe."
 
 ## What works with him
 

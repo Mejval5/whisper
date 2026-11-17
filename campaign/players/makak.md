@@ -160,6 +160,8 @@ tutor. 21/10 robot voice back as the group's favourite bit, the potion farce, "u
 26/10 private: candid, tired, Terminator brainstorming, wants a pistol and fewer clicks.
 01/11 at Veru's, the drown-the-rat plan, Hero Point, pistol backstory, gun catalogue.
 10/11 gets the dragon-mouth pistol and 20% off at Keeleno's, shoots the thief, Lardus's job.
+17/11 leads the dungeon: scatter-shoots Ezekiel, smashes the stone door, fakes kobold tracks,
+writes "mocný Černovous" as bait, blames Carman; his power strip cut him out mid-fight.
 
 ## Signature quotes
 
@@ -181,6 +183,7 @@ tutor. 21/10 robot voice back as the group's favourite bit, the potion farce, "u
 - 10/11 00:46 "Mé střely nikdy neminou."
 - 10/11 01:55 "Pánové, právě jsem nalezl dobrý živý štít."
 - 10/11 02:19 "mě zatím tady tyhle ty prostě náhodný endgame, který ve městě baví, zatím nejvíc"
+- 17/11 01:23 "Přišel jsem, viděl jsem a prorazil jsem."
 
 ## What works with him
 

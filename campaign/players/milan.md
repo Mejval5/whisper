@@ -112,7 +112,9 @@ forgets NPC names.
 and the lever, three Overdrive failures taken with grace, the fish thief theory. 13/10 forging
 with Carman, currency ruling, leaves at the hour. 21/10 absent. 26/10 six-minute cameo defending
 the system. 01/11 the last one standing, three rescues from the water, warp fire lore. 10/11 Crow's Casks,
-beer and alchemy, a workbench at Carman's.
+beer and alchemy, a workbench at Carman's. 17/11 kobold killed by a throat crit, bites a beer
+barrel, finds the oiled secret door, scouts to the cell grate alone, hunted by rat assassins
+from home; proposed a rule for talking in combat (one word free).
 
 ## Signature quotes
 
@@ -130,6 +132,7 @@ beer and alchemy, a workbench at Carman's.
 - 01/11 01:38 "Já nemůžu vás postavit, nemůžu vás oživit, já nemám žádnou hodnotu."
 - 01/11 01:51 "Ty nevědět, co být varpový oheň? To každý vědět. Každý bát."
 - 10/11 00:40 "To být věda, já být taky tak trochu vědec sám."
+- 17/11 01:51 "Rikkit najít přátelé, už být s přáteli, už nemuset být sám."
 
 ## What works with him
 
